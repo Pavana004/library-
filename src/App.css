@@ -1,0 +1,16 @@
+.btn1{
+    border-radius: 30px;
+    color: rgb(33, 33, 34);
+}
+.btn1:hover{
+    background-color: rgb(5, 5, 5);
+    color: whitesmoke;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.table{
+    background-color: black;
+    color: white;
+}
